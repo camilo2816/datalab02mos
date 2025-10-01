@@ -9,7 +9,7 @@ Este proyecto implementa el **Problema 4 (TSP y Multi-TSP)** usando **Pyomo**.
 ## Ejecución en Google Colab
 Haz clic en el siguiente botón para abrir y ejecutar el notebook directamente en Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Camilo2816/dataLab02MOS/blob/main/lab02.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vaM7mQut2seo5IyabVi7eKs7AFq3Z2UL#scrollTo=0a4e3a91)
 
 ## Requisitos
 El notebook ya instala automáticamente:
@@ -21,5 +21,6 @@ El notebook ya instala automáticamente:
 
 ## Nota
 Los archivos `.csv` se cargan desde la carpeta `cost_matrix` incluida en este repositorio.
+
 
 
