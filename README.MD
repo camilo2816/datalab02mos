@@ -11,16 +11,13 @@ Haz clic en el siguiente botón para abrir y ejecutar el notebook directamente e
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vaM7mQut2seo5IyabVi7eKs7AFq3Z2UL#scrollTo=0a4e3a91)
 
-## Requisitos
-El notebook ya instala automáticamente:
-- Pyomo
-- Numpy
-- Pandas
-- Matplotlib
-- NetworkX
+## Notas
+- El notebook está preparado para cargar automáticamente los archivos `.csv` desde este repositorio de GitHub, por lo que no requiere configuraciones adicionales de Google Drive.
+- También se incluye aquí el notebook ya ejecutado, de manera que puede revisarse directamente en GitHub.  
+- Para volver a correr los experimentos, se recomienda abrir el link de Colab anterior y seleccionar **“Ejecutar todo”**.
 
-## Nota
-Los archivos `.csv` se cargan desde la carpeta `cost_matrix` incluida en este repositorio.
+
+
 
 
 
