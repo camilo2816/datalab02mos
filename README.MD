@@ -1,6 +1,6 @@
 # Laboratorio 2 - Optimización con Pyomo
 
-Este proyecto implementa el **Problema 4 (TSP y Multi-TSP)** usando **Pyomo**.
+Este proyecto implementa el **Laboratorio 2** usando **Pyomo**.
 
 ## Archivos
 - `lab02.ipynb`: Notebook principal con el desarrollo del laboratorio.
@@ -15,6 +15,7 @@ Haz clic en el siguiente botón para abrir y ejecutar el notebook directamente e
 - El notebook está preparado para cargar automáticamente los archivos `.csv` desde este repositorio de GitHub, por lo que no requiere configuraciones adicionales de Google Drive.
 - También se incluye aquí el notebook ya ejecutado, de manera que puede revisarse directamente en GitHub.  
 - Para volver a correr los experimentos, se recomienda abrir el link de Colab anterior y seleccionar **“Ejecutar todo”**.
+
 
 
 
